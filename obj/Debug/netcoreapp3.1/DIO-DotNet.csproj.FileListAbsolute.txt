@@ -1,0 +1,13 @@
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.exe
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.deps.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.runtimeconfig.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.runtimeconfig.dev.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.dll
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\bin\Debug\netcoreapp3.1\DIO-DotNet.pdb
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.csprojAssemblyReference.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.AssemblyInfoInputs.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.AssemblyInfo.cs
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.csproj.CoreCompileInputs.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.dll
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.pdb
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DIO-DotNet\obj\Debug\netcoreapp3.1\DIO-DotNet.genruntimeconfig.cache
